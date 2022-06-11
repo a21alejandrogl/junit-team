@@ -4,7 +4,7 @@ package com.mycompany.proxectocalculadora;
         
 /**
  *
- * @author Alejandro García Losas
+ * @author Alejandro García Losas.
  */
 public class Calculadora {
     
